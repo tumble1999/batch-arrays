@@ -1,1 +1,1 @@
-Help is coming soo
+array [command] [array] [value]

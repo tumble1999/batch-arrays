@@ -1,4 +1,8 @@
 @echo off
 setlocal EnableDelayedExpansion
 setlocal EnableExtensions
-type !tg_files!\help.txt
+
+set name=%1
+set values=%2
+
+for /f 
