@@ -1,6 +1,6 @@
 os: windows
 language: batchfile
-before_install: ~@echo off
+before_install: @echo off
 install: echo Install
 before_script: echo Before script
 script: face
