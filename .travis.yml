@@ -1,9 +1,0 @@
-os: windows
-language: batchfile
-before_install: @echo off
-install: echo Install
-before_script: echo Before script
-script: face
-after_success: echo success
-after_failure: echo Failure
-after_script: echo After Script
