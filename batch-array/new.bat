@@ -5,7 +5,8 @@ set name=%1
 set data=%2
 set !name!_rank=1
 set !name!_rank=%3
-goto %3d
+call :!%name%_rank!d
+goto :eof
 
 :2d
 set n=0
