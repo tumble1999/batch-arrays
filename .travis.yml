@@ -1,2 +1,3 @@
 os: windows
 language: batchfile
+script: echo "Hello World"
