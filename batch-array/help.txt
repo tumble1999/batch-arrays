@@ -1,1 +1,31 @@
+Command name
+(Description)
 
+      COMMAND [optionA] [optionB] . . .
+
+Key
+   optionA : description
+
+   optionB:
+      /P  Give a Yes/No Prompt before deleting.
+    .
+    .
+    .
+
+========[ Errorlevels ]=========
+decription=0
+description=1
+  .
+  .
+  .
+
+=========[ Examples ]============
+
+Description
+ Command
+
+Description
+ Command
+  .
+  .
+  .
