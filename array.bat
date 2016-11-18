@@ -8,4 +8,4 @@ set "tg_input=help"
 ) else (
 set tg_input=%1
 )
-call !tg_files!\!tg_input! %2
+call !tg_files!\!tg_input! %2 %3 %4

@@ -1,18 +1,20 @@
-@echo off
+rem @echo off
 setlocal EnableDelayedExpansion
 setlocal EnableExtensions
 set name=%1
-set data=%2
+set data=%~2
 set !name!_rank=1
-set !name!_rank=%3
+if not "%3"=="" set !name!_rank=%3
 call :!%name%_rank!d
 goto :eof
 
-:2d
+:1d
 set n=0
 for %%a in (!data!) do (
-set !name!_[!n!]=%%a
-set n+=1
+echo %%n%%:%n%
+echo !!n!!:!n!
+set "!name!_[!n!]=%%a"
+set /a n+=1
 )
 set !name!_length=!n!
 goto :eof
