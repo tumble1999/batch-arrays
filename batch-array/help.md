@@ -16,18 +16,18 @@ Impliments the feature of arrays into batch
 * (rank) : The number of dimentions of the array
 
 ## Error levels
-decription=0
-description=1
+* decription=0
+* description=1
   .
   .
   .
 
 ## Examples
-  Description
-   `Command`
+Description
+  `Command`
 
-  Description
-   `Command`
+Description
+  `Command`
     .
     .
     .
