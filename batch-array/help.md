@@ -1,7 +1,7 @@
 # Arrays
 Impliments the feature of arrays into batch
 
-      `array [command] [array] "items" (rank)`
+      `array [command] [array/helptopic] "items" (rank)`
 
 ## Key
 * command:
@@ -10,6 +10,8 @@ Impliments the feature of arrays into batch
   * `remove` Deletes the selected array
 
 * array : Select an array
+
+* helptopic : select a help topic you would like to read
 
 * "items" : Space seperated list of items you would like to add to the array
 
