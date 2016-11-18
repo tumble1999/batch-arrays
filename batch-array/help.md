@@ -1,7 +1,7 @@
 # Arrays
 Impliments the feature of arrays into batch
 
-      `array [command] [array/helptopic] "items" (rank)`
+      `array [command] [array] "items" (rank)`
 
 ## Key
 * command:
@@ -11,8 +11,23 @@ Impliments the feature of arrays into batch
 
 * array : Select an array
 
-* helptopic : select a help topic you would like to read
-
 * "items" : Space seperated list of items you would like to add to the array
 
 * (rank) : The number of dimentions of the array
+
+## Error levels
+decription=0
+description=1
+  .
+  .
+  .
+
+## Examples
+  Description
+   `Command`
+
+  Description
+   `Command`
+    .
+    .
+    .
