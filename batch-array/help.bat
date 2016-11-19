@@ -1,10 +1,8 @@
 @echo off
-setlocal EnableDelayedExpansion
-setlocal EnableExtensions
-set "topic=help-%1"
+:help
+if defined tg_files type !tg_files!\help.md
+if not defined tg_files type help.txt
+goto endtype !tg_files!\help.md
+goto end
 
-if "!topic!"=="help-" (
-set "topic=help"
-)
-
-if exist !tg_files!\!topic!.md type !tg_files!\!topic!.md
+:end
