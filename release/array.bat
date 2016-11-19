@@ -1,3 +1,4 @@
+@echo off
 set "testDE=face"
 if not "!testDE!"=="face" (
   Setlocal EnableDelayedExpansion
