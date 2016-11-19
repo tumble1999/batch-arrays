@@ -26,7 +26,7 @@ rem ======[END OF array.bat]===========
 rem ======[END OF help.bat]===========
 :help
 if defined tg_files type !tg_files!\help.md
-if not defined tg_files type help.txt
+if not defined tg_files type %~p0help.txt
 goto end
 rem ======[END OF help.bat]===========
 
