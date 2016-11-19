@@ -1,11 +1,15 @@
-# Project Title
+# Arrays in Batch
 
-TODO: Write a project description
+Added pthe high level programming feature of arrays into Batch.
 
-## Supported Browsers:
+## Supported Systems:
+Windows 10 (tot tested in other versions of windows)
 
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+
+### How to Use
+Please see [help.md](batch-array/help.md) for more details.
 
 ### Prerequisites
 (Preperatriomn to install)
@@ -16,16 +20,9 @@ These instructions will get you a copy of the project up and running on your loc
 ## Running the tests
 See [Travis][travis].
 
-## Status
-### Code Quality
-[![Code Climate](https://codeclimate.com/github/tumblenet/repository-template/badges/gpa.svg)](https://codeclimate.com/github/tumblenet/repository-template)
-[![Test Coverage](https://codeclimate.com/github/tumblenet/repository-template/badges/coverage.svg)](https://codeclimate.com/github/tumblenet/repository-template/coverage)
-[![Issue Count](https://codeclimate.com/github/tumblenet/repository-template/badges/issue_count.svg)](https://codeclimate.com/github/tumblenet/repository-template)
-[![codecov](https://codecov.io/gh/tumblenet/repository-template/branch/master/graph/badge.svg)](https://codecov.io/gh/tumblenet/repository-template)
-
 ### Continuous Intergration
-[![Build Status](https://travis-ci.org/tumblenet/repository-template.svg?branch=master)](https://travis-ci.org/tumblenet/repository-template)
-[![Gitter chat](https://badges.gitter.im/tumblenet/tumblenet-home-beta.png)](https://gitter.im/tumblenet/repository-template)
+[![Build Status](https://travis-ci.org/tumble1999/batch-arrays.svg?branch=master)](https://travis-ci.org/tumblenet/repository-template)
+[![Gitter chat](https://badges.gitter.im/tumble1999/batch-arrays.png)](https://gitter.im/tumble1999/batch-arrays)
 
 ## Deployment
 Add additional notes about how to deploy this on a live system
@@ -39,13 +36,12 @@ Add additional notes about how to deploy this on a live system
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Versioning
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/tumblenet/repository-template/tags). 
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/tumble1999/batch-arrays/tags).
 
 ## Authors
-* **Tumble** - *Jekyll, liquid, html, css and js* - [tumble1999](https://github.com/tumble1999)
-* **DBW** - *Markdown, English, frontend* - [drbatmanwho](https://github.com/drbatmanwho)
+* **Tumble** - *Batch Code* - [tumble1999](https://github.com/tumble1999)
 
-See also the list of [contributors](https://github.com/tumblenet/repository-template/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/tumble1999/batch-arrays/contributors) who participated in this project.
 
 ## License
 This project is licensed under the ### License - see the [LICENSE.md](LICENSE.md) file for details
