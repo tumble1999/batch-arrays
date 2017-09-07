@@ -1,4 +1,8 @@
 # Arrays in Batch
+[![Documentation Status](https://readthedocs.org/projects/batch-arrays/badge/?version=latest)](http://batch-arrays.readthedocs.io/en/latest/?badge=latest)
+[![Build Status](https://travis-ci.org/tumble1999/batch-arrays.svg?branch=master)](https://travis-ci.org/tumblenet/repository-template)
+[![Gitter chat](https://badges.gitter.im/tumble1999/batch-arrays.png)](https://gitter.im/tumble1999/batch-arrays)
+
 
 Added pthe high level programming feature of arrays into Batch.
 
@@ -19,10 +23,6 @@ Please see [help.md](batch-array/help.md) for more details.
 
 ## Running the tests
 See [Travis][travis].
-
-### Continuous Intergration
-[![Build Status](https://travis-ci.org/tumble1999/batch-arrays.svg?branch=master)](https://travis-ci.org/tumblenet/repository-template)
-[![Gitter chat](https://badges.gitter.im/tumble1999/batch-arrays.png)](https://gitter.im/tumble1999/batch-arrays)
 
 ## Deployment
 Add additional notes about how to deploy this on a live system
